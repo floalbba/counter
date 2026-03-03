@@ -11,6 +11,9 @@
     },
     "android": {
       "package": "com.counter.app"
-    }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
